@@ -17,7 +17,7 @@ about:
 
 Olá! Sou Davi Augusto, estudante do Bacharelado em Estatística na UFRGS (Universidade Federal do Rio Grande do Sul). Ao longo da minha trajetória acadêmica, acumulei experiências tanto em sala de aula quanto em estágios, consolidando meu interesse e desejo de profissionalizar-me na área da Ciência de Dados. Tenho dedicado meu tempo a projetos acadêmicos que envolvem Análise de Dados, Estatística Descritiva e pesquisa, utilizando principalmente a linguagem de programação R, além de ter experiência básica em SQL. Estou entusiasmado em continuar aprimorando minhas habilidades e contribuir de forma significativa para o campo da Ciência de Dados.
 
-SITE ME DESENVOLVIMENTO
+SITE EM DESENVOLVIMENTO
 
 ```{r}
 1 + 1
