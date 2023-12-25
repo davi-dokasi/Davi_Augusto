@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Davi Augusto F Silva"
 ---
@@ -9,3 +10,16 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+=======
+---
+title: "Davi Augusto F Silva"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+>>>>>>> Davi_Augusto/main
