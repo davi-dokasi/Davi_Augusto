@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Davi Augusto F Silva",
+    "title": "Davi Augusto F da Silva",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Linkedin\n  \n  \n    \n     Github\n  \n\n      \nOlá! Sou Davi Augusto, sou graduando de Bacharelado em Estatística na UFRGS (Universidade Federal do Rio Grande do Sul). Atualmente como estudante tive experiências acadêmicas e em estágios com aparte que eu desejo profissionalizar-me, sendo ela a Ciência de Dados. Tenho alguns projetos acadêmicos envolvendo Ánalise de Dados, Estatística Descritiva e pesquisa utilizando a linguagem de programação R e um pouco de SQL.\nSITE ME DESENVOLVIMENTO\n\n1 + 1\n\n[1] 2\n\n\n\n\nUniversidade Federal do Rio Grande do Sul | Porto Alegre, RS Bacharelado em Estatística | Maio 2023 - Atualmente ## Experience\nJovem Aprendiz - RBS | Programador Fullstack | Nov 2019 - Mai 2022 Estágio - Evcom | Ciência de Dados | Jun 2022 - Jul 2023"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,47 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "personal_projects.html",
+    "href": "personal_projects.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Projeto descritivo de análise de jogadores da nba (2000 -2020)\n\n“detalhes aqui”\n\nProjeto descritivo análise de vinhos\n\n“detalhes aqui”"
+  },
+  {
+    "objectID": "personal_projects.html#projetos-acadêmicos",
+    "href": "personal_projects.html#projetos-acadêmicos",
+    "title": "Projetos",
+    "section": "",
+    "text": "Projeto descritivo de análise de jogadores da nba (2000 -2020)\n\n“detalhes aqui”\n\nProjeto descritivo análise de vinhos\n\n“detalhes aqui”"
+  },
+  {
+    "objectID": "curriculum.html",
+    "href": "curriculum.html",
+    "title": "CV",
+    "section": "",
+    "text": "Curriculo:"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Davi Augusto F da Silva",
+    "section": "",
+    "text": "Universidade Federal do Rio Grande do Sul | Porto Alegre, RS Bacharelado em Estatística | Maio 2023 - Atualmente ## Experience\nJovem Aprendiz - RBS | Programador Fullstack | Nov 2019 - Mai 2022 Estágio - Evcom | Ciência de Dados | Jun 2022 - Jul 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Davi Augusto F da Silva",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#education-educação",
+    "href": "index.html#education-educação",
+    "title": "Davi Augusto F da Silva",
+    "section": "",
+    "text": "Universidade Federal do Rio Grande do Sul | Porto Alegre, RS Bacharelado em Estatística | Maio 2023 - Atualmente ## Experience\nJovem Aprendiz - RBS | Programador Fullstack | Nov 2019 - Mai 2022 Estágio - Evcom | Ciência de Dados | Jun 2022 - Jul 2023"
   }
 ]

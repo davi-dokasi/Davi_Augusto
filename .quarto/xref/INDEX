@@ -4,5 +4,11 @@
   },
   "about.qmd": {
     "about.html": "aa44a530"
+  },
+  "personal_projects.qmd": {
+    "personal_projects.html": "cc2498f4"
+  },
+  "curriculum.qmd": {
+    "curriculum.html": "2adcc232"
   }
 }
